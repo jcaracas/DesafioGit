@@ -27,6 +27,14 @@ body {
   color: #373a3c;
 }
 
+.footer1 {
+  font-size: 30px;
+}
+
+.footer1 a {
+  padding: 10px;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
