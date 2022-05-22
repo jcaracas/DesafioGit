@@ -29,12 +29,20 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   color: #373a3c;
 }
 
+a:hover {
+  transform: scale(1.10,1.10);
+}
+
 .footer1 {
   font-size: 30px;
 }
 
 .footer1 a {
   padding: 10px;
+}
+.footer1 i:hover {
+  transform: scale(1.10,1.10);
+
 }
 
 @media (max-width: 768px) {
